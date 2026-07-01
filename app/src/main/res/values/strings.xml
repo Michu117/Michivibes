@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Michivibes</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_top_songs">Top Canciones</string>
+    <string name="nav_top_artists">Top Artistas</string>
+    <string name="nav_top_albums">Top Álbumes</string>
+    <string name="nav_charts">Gráficas</string>
+    <string name="nav_import">Importar</string>
+    <string name="nav_wrapped">Wrapped</string>
+    <string name="nav_settings">Configuración</string>
+
+    <!-- Dashboard -->
+    <string name="total_plays">Reproducciones</string>
+    <string name="total_time">Tiempo total</string>
+    <string name="unique_artists">Artistas únicos</string>
+    <string name="unique_albums">Álbumes únicos</string>
+    <string name="total_songs">Canciones únicas</string>
+
+    <!-- Import -->
+    <string name="import_title">Importar Historial</string>
+    <string name="import_description">Selecciona un archivo exportado de Pano Scrobbler</string>
+    <string name="import_select_file">Seleccionar archivo CSV/JSON</string>
+    <string name="import_completed">Importación completada</string>
+    <string name="import_preview">Vista previa</string>
+    <string name="import_button">Importar datos</string>
+    <string name="import_another">Importar otro archivo</string>
+
+    <!-- Wrapped -->
+    <string name="wrapped_title">Tu año en música</string>
+    <string name="wrapped_loading">Preparando tu Wrapped…</string>
+    <string name="wrapped_no_data">No hay datos suficientes para generar tu Wrapped.\nImporta tu historial primero.</string>
+    <string name="wrapped_you_listened">Escuchaste</string>
+    <string name="wrapped_total">en total</string>
+    <string name="wrapped_favorite_artist">Tu artista favorito fue</string>
+    <string name="wrapped_top_song">Canción más escuchada</string>
+    <string name="wrapped_active_month">Mes más activo</string>
+    <string name="wrapped_top5_artists">Top 5 Artistas</string>
+    <string name="wrapped_top10_songs">Top 10 Canciones</string>
+    <string name="wrapped_thanks">Gracias por escuchar</string>
+    <string name="wrapped_subtitle">Sigue disfrutando de tu música</string>
+    <string name="wrapped_app">Con Michivibes</string>
+    <string name="wrapped_previous">Anterior</string>
+    <string name="wrapped_next">Siguiente</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Configuración</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_light">Claro</string>
+    <string name="settings_dark">Oscuro</string>
+    <string name="settings_amoled">AMOLED</string>
+    <string name="settings_system">Sistema</string>
+    <string name="settings_year">Año seleccionado</string>
+    <string name="settings_auto_export">Exportación automática</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_export">Compartir/Exportar</string>
+    <string name="settings_export_png">Exportar Wrapped como PNG</string>
+    <string name="settings_danger">Zona de peligro</string>
+    <string name="settings_reset">Reiniciar estadísticas</string>
+    <string name="settings_reset_title">Reiniciar estadísticas</string>
+    <string name="settings_reset_message">¿Estás seguro? Se eliminarán todos los datos importados.</string>
+    <string name="settings_reset_confirm">Reiniciar</string>
+    <string name="settings_cancel">Cancelar</string>
+
+    <!-- Widgets -->
+    <string name="widget_today_title">🎵 Música escuchada hoy</string>
+    <string name="widget_plays">reproducciones</string>
+    <string name="widget_time">tiempo</string>
+    <string name="widget_no_data">Sin datos</string>
+    <string name="widget_top_song_title">🎧 Más reproducida</string>
+    <string name="widget_top_artist_title">⭐ Artista favorito</string>
+    <string name="widget_times">veces</string>
+
+    <!-- General -->
+    <string name="loading">Cargando…</string>
+    <string name="error">Error</string>
+    <string name="no_data">No hay datos disponibles</string>
+    <string name="back">Volver</string>
+    <string name="refresh">Actualizar</string>
+
+    <!-- Media Monitoring -->
+    <string name="now_playing">Escuchando ahora</string>
+    <string name="last_song">Última canción</string>
+    <string name="live">EN VIVO</string>
+    <string name="monitor_title">Michivibes</string>
+    <string name="monitor_text">Registrando actividad musical</string>
+    <string name="monitor_notification_channel">Monitor de música</string>
+    <string name="monitor_notification_desc">Notificación para monitorizar la reproducción musical</string>
+    <string name="source_player">Fuente</string>
+    <string name="all_players">Todos los reproductores</string>
+    <string name="monitoring_active">Monitoreo activo</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Volver</string>
+    <string name="cd_refresh">Actualizar</string>
+    <string name="cd_music_note">Nota musical</string>
+    <string name="cd_timer">Temporizador</string>
+    <string name="cd_person">Persona</string>
+    <string name="cd_album">Álbum</string>
+    <string name="cd_star">Estrella</string>
+</resources>
